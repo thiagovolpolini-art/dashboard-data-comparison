@@ -1,4 +1,4 @@
-# 📊 DataVision AI
+# 📊 DataVision AI- React/TypeScript
 
 Dashboard web moderno para importar, visualizar e comparar dados de arquivos CSV e Excel.
 
